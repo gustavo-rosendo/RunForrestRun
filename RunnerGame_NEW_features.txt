@@ -1,0 +1,20 @@
+*************************************
+******** Training HTML5+JS **********
+*************************************
+
+=> Ideas of new features and further development:
+
+OK! + Optimize game (FPS, sound, etc.) to make it work in smartphones (at least Android)
++ Add menu with different sections: Settings, About, Languages, etc.
+OK! + Possibility to change player's speed (run faster, slow down)
++ Add different obstacles (from above)
++ Add platforms where the player can jump
++ Booster to jump higher
++ Booster for imunization against obstacles
++ Leaderboard with top score players
++ SNS integration: Facebook, Google+ to invite friends, share progress, etc.
++ Add more levels
++ Add a boss enemy to play against in the end of the level
++ etc. - any other ideas you may have :) 
+
+++ Multiplayer option

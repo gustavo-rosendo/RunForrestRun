@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<!-- Force full screen mode -->
+<meta name="mobile-web-app-capable" content="yes">
+<!-- Disable zoom -->
+<meta name="viewport"
+  content="
+    user-scalable = no,
+    target-densitydpi = device-dpi" 
+/>
+
+<head>
+  <title>Run Forrest Game!</title>
+  <style>
+	canvas {
+		background: transparent;
+	}
+  </style>
+  
+  <script src="src/App.js"></script>
+  <script src="src/SpriteManager.js"></script>
+  <script src="src/Sprite.js"></script>
+  <script src="src/SceneManager.js"></script>
+  <script src="src/Circle.js"></script>
+  <script src="src/Object.js"></script>
+  <script src="src/Plane.js"></script>
+  <script src="src/Rectangle.js"></script>
+  <script src="src/Character.js"></script>
+  <script src="src/Background.js"></script>
+  <script src="src/Coin.js"></script>
+  <script src="src/CoinManager.js"></script>
+  <script src="src/Obstacle.js"></script>
+  <script src="src/ObstacleManager.js"></script>
+  <script src="src/SoundManager.js"></script>
+  <script src="src/Button.js"></script>
+</head>
+<body>
+  <canvas id="canvas_panel" width="200" height="200" style="position: absolute; left: 0; top: 0; z-index: 0;"></canvas>
+  <canvas id="canvas_text" width="200" height="200" style="position: absolute; left: 0; top: 0; z-index: 1;"></canvas>
+  <input type="type" name="nickname" maxlength="10" style="position: absolute; left: 0; top: 0;">
+</body>
+</html>
