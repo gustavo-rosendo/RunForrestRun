@@ -2,9 +2,9 @@
 What started last year with a simple desire to learn more about HTML5+JS, in order to give a small training/workshop to some colleagues at work, ended up resulting in a small web-based game of mine that I would like to share with you. :)
 The game is called "Run Forest!" (click here to play) and is very simple: it is an endless 2D runner game where the main character needs to collect as many coins as possible and avoid to be eaten by the evil robotic sharks (taken from Sonic The Hedgehog game).
 Possible actions of the main character are:
-Jump: you can do it by just clicking the mouse, pressing the arrow buttons of the keyboard, or simply touching the screen if you are playing in a mobile device
-Walk faster: increase the main character's velocity by continuously pressing the right arrow in the keyboard  (I still need to implement this feature in mobile devices)
-Walk slower: do this by continuously pressing the left arrow in the keyboard (also still to be implemented in mobile devices)
+- Jump: you can do it by just clicking the mouse, pressing the arrow buttons of the keyboard, or simply touching the screen if you are playing in a mobile device
+- Walk faster: increase the main character's velocity by continuously pressing the right arrow in the keyboard  (I still need to implement this feature in mobile devices)
+- Walk slower: do this by continuously pressing the left arrow in the keyboard (also still to be implemented in mobile devices)
 Although it is a pretty simple game, I am quite satisfied with the result because all I started with was a blank text editor (sometimes I've used Notepad++ and some other times switched to Sublime Text) and a few internet tutorials on the matter.
 From there I started planning what features I had to implement and what were the tasks involved. I've used mainly Javascript with Object-Oriented Programming to implement everything in a more organized way. Then I came up with a "task list" or "implementation plan" that looked (very) roughly like this:
 Show one coin on screen that can twist
